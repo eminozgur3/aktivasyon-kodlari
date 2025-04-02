@@ -1,2 +1,1 @@
-bu mesajı görüyorsan 
-BAĞLANTI BAŞARILI 
+ BAGLANTI BASARILI 
